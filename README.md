@@ -1,3 +1,5 @@
 # hello_world
-This is Hollowfier Laearning to Github.
+This is Hollowfier Learning to Github.
 Wish Me Luck !!
+
+Edit: typo.
